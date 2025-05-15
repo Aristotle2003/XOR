@@ -41,5 +41,8 @@ XOR is an educational iOS app that teaches the fundamentals of Boolean logic gat
    git clone https://github.com/yourusername/XOR-LogicApp.git
    cd XOR-LogicApp
 
+2. Open the project in Xcode:
+    ```bash
+    open XOR-LogicApp.xcodeproj
 
-2. 
+3. Build and run on a simulator or physical device.
